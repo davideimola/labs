@@ -1,0 +1,7 @@
+user:user
+user:password
+ftp-user:ftp-user
+elena:elena
+utente1:user_one_password
+admin:admin123
+giovanni:giovapass
