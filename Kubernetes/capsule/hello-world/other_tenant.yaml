@@ -1,0 +1,10 @@
+---
+apiVersion: capsule.clastix.io/v1alpha1
+kind: Tenant
+metadata:
+  name: other
+spec:
+  owner:
+    name: bob
+    kind: User
+  namespaceQuota: 3
